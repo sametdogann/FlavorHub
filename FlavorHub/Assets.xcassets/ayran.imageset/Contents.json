@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "0001222_sutaş-bardak-ayran-300-ml_510.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
